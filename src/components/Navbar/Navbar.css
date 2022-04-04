@@ -8,6 +8,9 @@
   padding-left: 140px;
   padding-right: 140px;
 }
+.navber.navber:hover {
+  color: orange;
+}
 .navber a {
   color: white;
   text-decoration: none;

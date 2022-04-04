@@ -1,0 +1,35 @@
+.text {
+  color: black;
+  margin-top: 200px;
+  font-size: x-large;
+}
+.color {
+  color: orange;
+}
+.image {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 134px;
+}
+.ima {
+  margin-top: 20px;
+}
+.text-info {
+  color: gray;
+  font-size: 26px;
+  margin-top: 10px;
+}
+.btn {
+  background-color: orange;
+  color: white;
+  border: none;
+  font-size: 17px;
+  padding: 16px;
+  margin: 16px;
+  border-radius: 5px;
+  margin-left: 3px;
+}
+.btn:hover {
+  color: black;
+  background-color: goldenrod;
+}
