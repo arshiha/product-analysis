@@ -1,8 +1,13 @@
 .text {
-  color: black;
-  margin-top: 200px;
-  font-size: x-large;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-left: 20px;
 }
+.img-container img {
+  width: 600px;
+  margin-left: 240px;
+}
+
 .color {
   color: orange;
 }
@@ -11,13 +16,20 @@
   justify-content: space-between;
   margin-left: 134px;
 }
-.ima {
+/* .img {
   margin-top: 20px;
-}
+} */
 .text-info {
   color: gray;
   font-size: 26px;
   margin-top: 10px;
+  margin-left: 80px;
+}
+.header {
+  margin-left: 80px;
+}
+.text-style {
+  color: orange;
 }
 .btn {
   background-color: orange;
@@ -27,7 +39,7 @@
   padding: 16px;
   margin: 16px;
   border-radius: 5px;
-  margin-left: 3px;
+  margin-left: 80px;
 }
 .btn:hover {
   color: black;

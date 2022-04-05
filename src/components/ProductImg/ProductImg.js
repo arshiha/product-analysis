@@ -1,8 +1,11 @@
 import React from "react";
-import Image from "../../Image/cemera3.jpg";
+
 import "./ProductImg.css";
+import useReviews from "../../Hooks/useReviews";
+import CustomarReview from "../CustomarReview/CustomarReview.js";
 
 const ProductImg = () => {
+  const [reviews, setReviews] = useReviews();
   return (
     <div className="image">
       <div className="text">
@@ -18,9 +21,13 @@ const ProductImg = () => {
           <button className="btn">Live Demo</button>
         </h1>
       </div>
-      <nav className="img">
-        <img src={Image} alt="" />
-      </nav>
+      <nav className="img"></nav>
+
+      <div>
+        {reviews.map((data) => (
+          <CustomarReview data={data} key={data._id}></CustomarReview>
+        ))}
+      </div>
     </div>
   );
 };
