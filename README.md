@@ -1,5 +1,13 @@
 # Getting Started with Create React App
 
+--My Project Name: The Camera Shop.
+
+--Project repo link:https://github.com/programming-hero-web-course-4/product-analysis-website-arshiha
+--html
+--css
+--javascript
+--bootstrap
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
