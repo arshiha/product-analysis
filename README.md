@@ -1,8 +1,8 @@
 # Getting Started with Create React App
 
---My Project Name: The Camera Shop.
-
 --Live site link:https://exquisite-malasada-28da79.netlify.app/
+
+--My Project Name: The Camera Shop.
 
 --Project repo link:https://github.com/programming-hero-web-course-4/product-analysis-website-arshiha
 --html
