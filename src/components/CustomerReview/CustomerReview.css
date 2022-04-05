@@ -4,4 +4,6 @@
 .text {
   text-align: center;
 }
-
+.ratings {
+  color: orangered;
+}

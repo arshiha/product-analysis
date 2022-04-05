@@ -14,7 +14,7 @@ const CustomerReview = (props) => {
           <p>{description}</p>
 
           <p className="text">
-            Rating :
+            <span className="ratings">Rating</span> :
             <Rating
               className="rating"
               placeholderRating={rating}
