@@ -8,7 +8,7 @@ const Blog = () => {
         <Row className="d-flex align-items-center my-5 ">
           <Col md={6} xs={12}>
             <h4 className="text-primary ">1.What Is Context Api?</h4>
-            <p className="border border-info p-3">
+            <p className="border border-primary p-3">
               <strong className="text-success">Answer: </strong>
               The React Context API is a way for a React app to effectively
               produce global variables that can be passed around. This is the
@@ -22,7 +22,7 @@ const Blog = () => {
           </Col>
           <Col md={6} xs={12}>
             <h4 className="text-primary">2.What is Semantic tag?</h4>
-            <p className="border border-info p-3 ">
+            <p className="border border-primary p-3 ">
               <strong className="text-success">Answer: </strong>Semantic HTML
               tags allow you to add meaning to your markup so that search
               engines, screen readers, and web browsers can make sense of it. By
