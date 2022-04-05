@@ -1,44 +1,44 @@
 [
   {
     "id": 1,
-    "name": "Rabeka Putul",
-    "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Kelly Hamilton",
+    "img": "https://images-na.ssl-images-amazon.com/images/S/amazon-avatars-global/000815a8-dee9-4fdb-ac5c-e205caad4b0e._CR0,0,400,400_UX460_.jpg",
     "rating": 5,
-    "description": "While the best MacBook for each person will differ, there's a great option for virtually anyone in Apple's laptop lineup today."
+    "description": "The ratings on this camera say that the ISO goes up very high, which is true. However, what they don't tell you is that the ISO is Automatic and there is no way to set it yourself in Manuel Mode."
   },
   {
     "id": 2,
-    "name": "Rakibul Hasan",
-    "img": "https://images.pexels.com/photos/997489/pexels-photo-997489.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
+    "name": "Mehedi Hasan",
+    "img": "https://media.istockphoto.com/photos/shot-of-a-young-businessman-using-a-laptop-in-a-modern-office-picture-id1354898581?b=1&k=20&m=1354898581&s=170667a&w=0&h=Jkv4uO6gEaLFtz6F22ZrEk4VQljqLNKMuVpdRlIYoEY=",
     "rating": 4,
-    "description": "While the best MacBook for each person will differ, there's a great option for virtually anyone in Apple's laptop lineup today. "
+    "description": "The ratings on this camera say that the ISO goes up very high, which is true. However, what they don't tell you is that the ISO is Automatic and there is no way to set it yourself in Manuel Mode. You can change the aperture and Shutter speed but it will automatically choose your ISO. "
   },
   {
     "id": 3,
-    "name": "Md Rabbi",
-    "img": "https://images.pexels.com/photos/1808398/pexels-photo-1808398.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-    "rating": 5,
-    "description": "While the best MacBook for each person will differ, there's a great option for virtually anyone in "
+    "name": "Md Rakin",
+    "img": "https://media.istockphoto.com/photos/studio-shot-of-a-handsome-and-happy-young-man-posing-against-a-grey-picture-id1355110818?b=1&k=20&m=1355110818&s=170667a&w=0&h=O58XhltYuAw0ssiUWXAFlIitq_4kj-WdJFWcTLEoUi0=",
+    "rating": 4.5,
+    "description": "Love that I can use the camera connect app to operate the camera and view photos on my phone instantly. Took a few tries to figure it out, but it works. "
   },
   {
     "id": 4,
-    "name": "Nurul Huda",
-    "img": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-    "rating": 5,
-    "description": "While the best MacBook for each person will differ, there's a great option for  in 2020 kicked "
+    "name": "Md Rafat",
+    "img": "https://media.istockphoto.com/photos/african-student-sitting-in-classroom-picture-id1351445530?b=1&k=20&m=1351445530&s=170667a&w=0&h=9Lmy0oy3tqoFgvuIPhEKPhbNQrLR12Ym518Zjs-KpF4=",
+    "rating": 4,
+    "description": "I am brand spanking new to photography and DSLR cameras. Thanks to a few hours at the University of YouTube, I think I have the hang of it. So my review is partial, but from the perspective of a total novice to photography and something other than a point and shoot camera."
   },
   {
     "id": 3,
-    "name": "Md Shipon",
-    "img": "https://images.pexels.com/photos/1516680/pexels-photo-1516680.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-    "rating": 4,
-    "description": "While the best MacBook for each  M1 chip in the MacBook Air and MacBook Pro 13-inch in 2020 kicked "
+    "name": "Md Piyas",
+    "img": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 5,
+    "description": "The Canon Rebel T6 is also known as the 1300D throughout the world. Without getting too technical, this model is a great entry level camera for novice photographers to learn the art of photography. The two lenses that are included provide the ability to take desirable photos near and far."
   },
   {
     "id": 6,
-    "name": "Nahidul Islam",
-    "img": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260",
-    "rating": 5,
-    "description": "While the best MacBook for each person will differ, there's a great option for  chip in the MacBook Air and MacBook Pro 13-inch in 2020 kicked "
+    "name": "Mat Higham",
+    "img": "https://images.unsplash.com/photo-1541855492-581f618f69a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bWFsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "rating": 4,
+    "description": "The ratings on this camera say that the ISO goes up very high, which is true. However, what they don't tell you is that the ISO is Automatic and there is no way to set it yourself in Manuel Mode. You can change the aperture and Shutter speed but it will automatically choose your ISO. "
   }
 ]

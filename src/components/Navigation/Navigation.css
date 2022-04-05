@@ -4,19 +4,17 @@
   border-radius: 50%;
   margin-right: 5px;
 }
-.style-color{
-    background-color: rgb(8, 10, 10);
+.style-color {
+  background-color: rgb(8, 10, 10);
 }
-.navbar-style a{
+.navbar-style a {
   color: white !important;
   font-weight: 500;
 }
-.navbar-style a:hover{
-  color: orangered!important;
+.navbar-style a:hover {
+  color: greenyellow !important;
   font-weight: 500;
 }
 .word-color {
-  color: #ff8906;
+  color: greenyellow;
 }
-
-
